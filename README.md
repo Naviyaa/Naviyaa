@@ -4,11 +4,11 @@
 **Naviyaa/Naviyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am a computer science student, currently in my 3rd year at VIT Chennai.
+I am Naviyaa, a computer science student and am currently in my 3rd year at VIT Chennai.
 
 - 🔭 I’m currently working on building mini-projects in python.
 - 🌱 I’m currently learning React.js.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/naviyaa-poonia/)
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/naviyaa-poonia/"><img src="https://img.shields.io/badge/Naviyaa-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
 ### Tools I am familiar with...
 
