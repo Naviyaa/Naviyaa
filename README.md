@@ -20,5 +20,5 @@ I am Naviyaa, a computer science student at VIT Chennai.
 
 
 # GitHub Stats:
-[![Naviyaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naviyaa&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Naviyaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naviyaa&hide=stars&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
