@@ -31,7 +31,7 @@ I am Naviyaa, a computer science student at VIT Chennai.
 
 
 # Tropies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Naviyaa&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Naviyaa&theme=monokai&row=2&column=3&title=Joined2020,MultiLanguage,Commits,Repositories,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
