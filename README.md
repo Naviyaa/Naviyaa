@@ -4,7 +4,7 @@
 **Naviyaa/Naviyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
+I am a computer science student, currently in my 3rd year at VIT Chennai.
 
 - 🔭 I’m currently working on building mini-projects in python.
 - 🌱 I’m currently learning React.js.
