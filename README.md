@@ -38,4 +38,4 @@ I am Naviyaa, a computer science student at VIT Chennai.
 
 
 # Recent Activity
-[![Naviyaa's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Naviyaa)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Naviyaa's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Naviyaa&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
