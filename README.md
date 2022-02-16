@@ -38,6 +38,4 @@ I am Naviyaa, a computer science student at VIT Chennai.
 
 
 # Recent Activity
-[![Naviyaa's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Naviyaa&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Naviyaa&theme=dracula" />
+[![Naviyaa's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Naviyaa)](https://github.com/ashutosh00710/github-readme-activity-graph)
