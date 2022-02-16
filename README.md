@@ -26,5 +26,16 @@ I am Naviyaa, a computer science student at VIT Chennai.
 # GitHub Stats:
 [![Naviyaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naviyaa&hide=stars&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
+---
+
+
 # Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naviyaa&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naviyaa&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
+
+# Recent Activity
+[![Naviyaa's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Naviyaa)](https://github.com/anuraghazra/github-readme-stats)
