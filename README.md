@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on building mini-projects in python.
 - 🌱 I’m currently learning React.js.
 - 📫 How to reach me: 
-  - [LinkedIn] (https://www.linkedin.com/in/naviyaa-poonia/)
+  - [LinkedIn](https://www.linkedin.com/in/naviyaa-poonia/)
