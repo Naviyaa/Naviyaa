@@ -14,4 +14,6 @@ I am a computer science student, currently in my 3rd year at VIT Chennai.
 
 <img alt="Python" src="https://img.shields.io/badge/-Python-BFBF3F?style=for-the-badge&logo=python&logoColor=white" /> <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-05A3A3?style=for-the-badge&logo=numpy&logoColor=white" /> <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-032649?style=for-the-badge&logo=pandas&logoColor=white" />
 
+<img alt="Java" src="https://img.shields.io/badge/-Java-810C0C?style=for-the-badge&logo=java&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />
+
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-3FF8F8?style=for-the-badge&logo=react&logoColor=black" /> 
