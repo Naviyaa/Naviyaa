@@ -20,4 +20,4 @@ I am Naviyaa, a computer science student at VIT Chennai.
 
 
 # GitHub Stats:
-[![Naviyaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naviyaa)]
+![Naviyaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naviyaa)
