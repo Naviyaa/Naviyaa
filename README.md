@@ -7,7 +7,6 @@
 I am Naviyaa, a computer science student at VIT Chennai.
 
 - 🔭 I’m currently working on building mini-projects in python.
-- 🌱 I’m currently learning React.js.
 - 📫 How to reach me:
  
     <a href="https://www.linkedin.com/in/naviyaa-poonia/"><img src="https://img.shields.io/badge/Naviyaa-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
